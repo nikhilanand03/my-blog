@@ -28,9 +28,11 @@ twitter_username: nikhlanand
 github_username:  nikhilanand03
 
 # Build settings
-theme: minima
+# Removed minima theme (gem-based) and now using own custom theme
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
