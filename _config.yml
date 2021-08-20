@@ -26,6 +26,7 @@ baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://nikhilanand03.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nikhlanand
 github_username:  nikhilanand03
+author: Nikhil Anand
 
 # Build settings
 # Removed minima theme (gem-based) and now using own custom theme
